@@ -14,13 +14,25 @@ Designed with a clean user experience, bold typography, modern layouts, and a mo
 
 ## 📸 Preview
 
-### 🖥️ Desktop Homepage
+### Homepage
 
-![Desktop Homepage](images/homepage-desktop.png)
+![Homepage](images/homepage-desktop.png)
 
-### 📱 Mobile Homepage
+### Services Section
 
-![Mobile Homepage](images/homepage-mobile.png)
+![Services](images/services.png)
+
+### Gallery Section
+
+![Gallery](images/gallery.png)
+
+### Reviews Section
+
+![Reviews](images/reviews.png)
+
+### Contact Section
+
+![Contact](images/contact.png)
 
 ---
 
@@ -99,19 +111,3 @@ elite-cuts-demo/
 This project was created for portfolio and demonstration purposes.
 
 Please do not copy, redistribute, or sell this project without permission.
-
----
-
-## 👨‍💻 Developer
-
-**Saffi Khan**
-
-Computer Science Student & Front-End Developer
-
-I build modern, responsive websites for local businesses with a focus on performance, user experience, and clean design.
-
-📧 **Contact:** *(Add your email here)*
-
-🌐 **Portfolio:** *(Coming Soon)*
-
-💼 **LinkedIn:** *(Add your LinkedIn profile here)*
