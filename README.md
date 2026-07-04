@@ -24,15 +24,15 @@ Designed with a clean user experience, bold typography, modern layouts, and a mo
 
 ### Gallery Section
 
-![Gallery](images/gallery.png)
+![Gallery](images/Gallery.png)
 
 ### Reviews Section
 
-![Reviews](images/reviews.png)
+![Reviews](images/Reviews.png)
 
-### Contact Section
+### Booking Section
 
-![Contact](images/contact.png)
+![Booking](images/Booking.png)
 
 ---
 
