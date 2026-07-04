@@ -1,74 +1,117 @@
-# Elite Cuts Barbershop
+# 💈 Elite Cuts Barbershop
 
-A modern, bold, and fully responsive barbershop website designed to showcase a premium grooming brand. This project was created as a portfolio demonstration to highlight clean design, strong branding, smooth user experience, and mobile-first development for local businesses.
+A premium, modern, and fully responsive barbershop website built to demonstrate the type of high-quality websites I create for local businesses.
 
-## ✨ Features
+Designed with a clean user experience, bold typography, modern layouts, and a mobile-first approach to help businesses build trust, attract new customers, and increase bookings.
 
-* Responsive design for desktop, tablet, and mobile
-* Premium hero section with clear call-to-action
-* Services section
-* Pricing section
-* Barber/team section
-* Customer testimonials
-* Image gallery
-* Contact information and business hours
-* Google Maps integration ready
-* Fast-loading static website
-* Clean and organized code structure
-
-## 🛠️ Built With
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
+---
 
 ## 🌐 Live Demo
 
-Add your deployed website link here after publishing.
+🔗 **https://elite-cuts-demo.netlify.app**
 
-Example:
+---
 
-`https://elite-cuts.netlify.app`
+## 📸 Preview
 
-## 📸 Screenshots
+### 🖥️ Desktop Homepage
 
-Add screenshots of the homepage and other sections here after deployment.
+![Desktop Homepage](images/homepage-desktop.png)
 
-## 🎯 Purpose
+### 📱 Mobile Homepage
 
-This website was created as a portfolio project demonstrating the type of professional, high-quality websites I build for barbershops, grooming studios, salons, and other local businesses.
+![Mobile Homepage](images/homepage-mobile.png)
 
-## 📁 Project Structure
+---
+
+## ✨ Features
+
+- 📱 Fully responsive design
+- 💈 Premium hero section
+- 🎨 Modern UI/UX
+- 💳 Services & pricing section
+- 🖼️ Image gallery
+- ⭐ Customer testimonials
+- 📍 Contact & business information
+- 📅 Call-to-action booking sections
+- ⚡ Fast-loading static website
+- 🧩 Clean and organized code
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+---
+
+## 🎯 Project Purpose
+
+Elite Cuts was created as a portfolio project to showcase a modern website for barbershops and grooming businesses.
+
+The goal is to demonstrate how a clean, professional website can:
+
+- Build customer trust
+- Showcase services
+- Increase online bookings
+- Improve mobile experience
+- Strengthen a business's online presence
+
+---
+
+## 📂 Project Structure
 
 ```text
+elite-cuts-demo/
+│
 ├── index.html
 ├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+├── README.md
+│
+└── images/
+    ├── homepage-desktop.png
+    ├── homepage-mobile.png
+    ├── services.png
+    ├── gallery.png
+    └── reviews.png
 ```
 
-## 📱 Responsive Design
-
-The website is optimized for:
-
-* Desktop
-* Laptop
-* Tablet
-* Mobile devices
+---
 
 ## 🚀 Future Improvements
 
-* Online booking system
-* CMS integration
-* Google Reviews integration
-* Animated gallery
-* SEO enhancements
-* Accessibility improvements
-* Performance optimization
+- Online appointment booking
+- Google Maps integration
+- Google Reviews integration
+- Scroll animations
+- Dark/Light mode
+- SEO optimization
+- Accessibility improvements
+- Performance optimization
+- CMS integration for business owners
+
+---
 
 ## 📄 License
 
-This project is intended for portfolio and demonstration purposes.
+This project was created for portfolio and demonstration purposes.
+
+Please do not copy, redistribute, or sell this project without permission.
+
+---
+
+## 👨‍💻 Developer
+
+**Saffi Khan**
+
+Computer Science Student & Front-End Developer
+
+I build modern, responsive websites for local businesses with a focus on performance, user experience, and clean design.
+
+📧 **Contact:** *(Add your email here)*
+
+🌐 **Portfolio:** *(Coming Soon)*
+
+💼 **LinkedIn:** *(Add your LinkedIn profile here)*
